@@ -1,4 +1,4 @@
-/**
+<?php/**
  * @file
  * Default theme implementation for comments.
  *

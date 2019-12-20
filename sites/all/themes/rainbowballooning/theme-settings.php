@@ -1,3 +1,4 @@
+<?php
 require_once 'includes/slider.inc';
 
 function rainbowballooning_form_system_theme_settings_alter(&$form, $form_state) {

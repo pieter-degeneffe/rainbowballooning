@@ -1,4 +1,4 @@
-/**
+<?php/**
  * @file
  * Displays a list of forum topics.
  *

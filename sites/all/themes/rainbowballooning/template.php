@@ -1,3 +1,4 @@
+<?php
 include_once 'includes/custom_menu.inc';
 include_once 'includes/slider.inc';
 
